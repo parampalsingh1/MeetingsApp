@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_tagline">Plan Smart, Stay ahead with PS MeetEase</string>
+    <string name="app_title">PS MeetEase</string>
+    <string name="view_meetings">View and Manage Your Meetings</string>
+    <string name="add_contacts">Add and Update Contacts</string>
+    <string name="create_meeting">Create Meeting</string>
+    <string name="delete">Delete</string>
+    <string name="back">back</string>
+</resources>
