@@ -1,4 +1,4 @@
-# **RightOnTime** 🕒
+# **MeetingsApp** 🕒
 
 RightOnTime is a sleek Android app designed to make your meeting scheduling and management a breeze. With a touch of simplicity and a dash of functionality, it helps you stay on top of your tasks efficiently.
 
