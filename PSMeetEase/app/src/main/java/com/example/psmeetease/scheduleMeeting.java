@@ -1,8 +1,4 @@
 package com.example.psmeetease;
-/*
- * Name:        Parampal Singh
- * Student no.: 7003114
- */
 
 import android.annotation.SuppressLint;
 import android.app.DatePickerDialog;
