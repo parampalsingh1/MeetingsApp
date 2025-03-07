@@ -1,10 +1,5 @@
 package com.example.psmeetease;
 
-/*
- * Name:        Parampal Singh
- * Student no.: 7003114
- */
-
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
