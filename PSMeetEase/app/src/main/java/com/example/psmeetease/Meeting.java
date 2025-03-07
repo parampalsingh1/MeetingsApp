@@ -1,10 +1,5 @@
 package com.example.psmeetease;
 
-/*
- * Name:        Parampal Singh
- * Student no.: 7003114
- */
-
 public class Meeting {
     private int id;
     private String title;
