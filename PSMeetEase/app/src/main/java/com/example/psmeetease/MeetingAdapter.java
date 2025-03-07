@@ -1,10 +1,5 @@
 package com.example.psmeetease;
 
-/*
- * Name:        Parampal Singh
- * Student no.: 7003114
- */
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
