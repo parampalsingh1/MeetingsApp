@@ -1,10 +1,5 @@
 package com.example.psmeetease;
 
-/*
- * Name:        Parampal Singh
- * Student no.: 7003114
- */
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
